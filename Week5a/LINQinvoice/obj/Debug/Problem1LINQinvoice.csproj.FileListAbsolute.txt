@@ -1,0 +1,4 @@
+E:\eug\esc\_CSharp\FMICS\CSF19\w5\Lab5F19\LINQinvoice\LINQinvoice\obj\Debug\Problem1LINQinvoice.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF19\w5\Lab5F19\LINQinvoice\LINQinvoice\obj\Debug\Problem1LINQinvoice.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF19\w5\Lab5F19\LINQinvoice\LINQinvoice\obj\Debug\LINQinvoice.exe
+E:\eug\esc\_CSharp\FMICS\CSF19\w5\Lab5F19\LINQinvoice\LINQinvoice\obj\Debug\LINQinvoice.pdb

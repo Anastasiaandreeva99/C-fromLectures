@@ -1,0 +1,7 @@
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Lab5\LINQinvoice\LINQinvoice\bin\Debug\LINQinvoice.exe.config
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Lab5\LINQinvoice\LINQinvoice\bin\Debug\LINQinvoice.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Lab5\LINQinvoice\LINQinvoice\bin\Debug\LINQinvoice.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Lab5\LINQinvoice\LINQinvoice\obj\Debug\LINQinvoice.csprojAssemblyReference.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Lab5\LINQinvoice\LINQinvoice\obj\Debug\LINQinvoice.csproj.CoreCompileInputs.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Lab5\LINQinvoice\LINQinvoice\obj\Debug\LINQinvoice.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Lab5\LINQinvoice\LINQinvoice\obj\Debug\LINQinvoice.pdb
