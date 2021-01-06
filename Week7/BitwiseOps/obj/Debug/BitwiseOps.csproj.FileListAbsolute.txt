@@ -1,0 +1,7 @@
+C:\Users\echrk\source\repos\Week7\BitwiseOps\bin\Debug\BitwiseOps.exe.config
+C:\Users\echrk\source\repos\Week7\BitwiseOps\bin\Debug\BitwiseOps.exe
+C:\Users\echrk\source\repos\Week7\BitwiseOps\bin\Debug\BitwiseOps.pdb
+C:\Users\echrk\source\repos\Week7\BitwiseOps\obj\Debug\BitwiseOps.csprojAssemblyReference.cache
+C:\Users\echrk\source\repos\Week7\BitwiseOps\obj\Debug\BitwiseOps.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week7\BitwiseOps\obj\Debug\BitwiseOps.exe
+C:\Users\echrk\source\repos\Week7\BitwiseOps\obj\Debug\BitwiseOps.pdb
