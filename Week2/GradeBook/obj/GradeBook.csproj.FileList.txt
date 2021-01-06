@@ -1,0 +1,8 @@
+bin\Debug\GradeBook.exe
+bin\Debug\GradeBook.pdb
+obj\Debug\GradeBook.exe
+obj\Debug\GradeBook.pdb
+bin\Release\GradeBook.exe
+bin\Release\GradeBook.pdb
+obj\Release\GradeBook.exe
+obj\Release\GradeBook.pdb

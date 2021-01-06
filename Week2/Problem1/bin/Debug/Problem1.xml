@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Problem1</name>
+    </assembly>
+    <members>
+        <member name="M:Problem1.Account.#ctor(System.Decimal,System.Decimal,System.DateTime,System.String)">
+            <summary>
+            General purpose contructor
+            </summary>
+        </member>
+        <member name="M:Problem1.Account.#ctor(Problem1.Account)">
+            <summary>
+            Copy constructor
+            </summary>
+        </member>
+        <member name="P:Problem1.Account.Id">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

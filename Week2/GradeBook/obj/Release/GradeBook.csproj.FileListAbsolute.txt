@@ -1,0 +1,2 @@
+D:\eug\esc\_C#\FMIC#\C#F08\w2\Lecture\fig04_12_13\GradeBook\obj\Release\GradeBook.exe
+D:\eug\esc\_C#\FMIC#\C#F08\w2\Lecture\fig04_12_13\GradeBook\obj\Release\GradeBook.pdb

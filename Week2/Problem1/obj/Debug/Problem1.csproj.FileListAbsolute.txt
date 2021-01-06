@@ -1,0 +1,8 @@
+C:\Users\grade\source\repos\Week2\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\grade\source\repos\Week2\Problem1\bin\Debug\Problem1.xml
+C:\Users\grade\source\repos\Week2\Problem1\bin\Debug\Problem1.exe
+C:\Users\grade\source\repos\Week2\Problem1\bin\Debug\Problem1.pdb
+C:\Users\grade\source\repos\Week2\Problem1\obj\Debug\Problem1.csprojAssemblyReference.cache
+C:\Users\grade\source\repos\Week2\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\grade\source\repos\Week2\Problem1\obj\Debug\Problem1.exe
+C:\Users\grade\source\repos\Week2\Problem1\obj\Debug\Problem1.pdb
