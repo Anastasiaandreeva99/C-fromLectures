@@ -1,0 +1,7 @@
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\Problem2\bin\Debug\Problem2.exe
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\Problem2\bin\Debug\Problem2.pdb
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\Problem2\obj\Debug\Problem2.csprojAssemblyReference.cache
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\Problem2\obj\Debug\Problem2.exe
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\Problem2\obj\Debug\Problem2.pdb

@@ -1,0 +1,14 @@
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\bin\Debug\WpfApp4.exe.config
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\bin\Debug\WpfApp4.exe
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\bin\Debug\WpfApp4.pdb
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\MainWindow.baml
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\MainWindow.g.cs
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\App.g.cs
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\WpfApp4.g.resources
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\WpfApp4.exe
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\WpfApp4.pdb
+C:\Users\grade\Documents\Visual Studio 2019\Projects\Week3a\CalculatorSample\obj\Debug\Calculator.csprojAssemblyReference.cache
