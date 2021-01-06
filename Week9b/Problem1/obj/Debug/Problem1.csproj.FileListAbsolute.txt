@@ -1,0 +1,6 @@
+C:\Users\echrk\source\repos\Week9b\Problem1\bin\Debug\Problem1.pdb
+C:\Users\echrk\source\repos\Week9b\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week9b\Problem1\obj\Debug\Problem1.pdb
+C:\Users\echrk\source\repos\Week9b\Problem1\bin\Debug\Problem1.dll.config
+C:\Users\echrk\source\repos\Week9b\Problem1\bin\Debug\Problem1.dll
+C:\Users\echrk\source\repos\Week9b\Problem1\obj\Debug\Problem1.dll
