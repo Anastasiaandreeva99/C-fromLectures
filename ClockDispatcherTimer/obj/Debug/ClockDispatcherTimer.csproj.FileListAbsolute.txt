@@ -1,0 +1,14 @@
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\bin\Debug\ClockDispatcherTimer.exe.config
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\bin\Debug\ClockDispatcherTimer.exe
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\bin\Debug\ClockDispatcherTimer.pdb
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\MainWindow.g.cs
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\App.g.cs
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\ClockDispatcherTimer_MarkupCompile.cache
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\ClockDispatcherTimer_MarkupCompile.lref
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\MainWindow.baml
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\ClockDispatcherTimer.g.resources
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\ClockDispatcherTimer.Properties.Resources.resources
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\ClockDispatcherTimer.csproj.GenerateResource.cache
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\ClockDispatcherTimer.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\ClockDispatcherTimer.exe
+C:\Users\echrk\source\repos\Week14\ClockDispatcherTimer\obj\Debug\ClockDispatcherTimer.pdb

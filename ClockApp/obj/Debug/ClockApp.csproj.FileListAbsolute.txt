@@ -1,0 +1,13 @@
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockUsrControl.g.cs
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockApp_MarkupCompile.cache
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockApp_MarkupCompile.lref
+C:\Users\echrk\source\repos\Week14\ClockApp\bin\Debug\ClockApp.dll.config
+C:\Users\echrk\source\repos\Week14\ClockApp\bin\Debug\ClockApp.dll
+C:\Users\echrk\source\repos\Week14\ClockApp\bin\Debug\ClockApp.pdb
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockUsrControl.baml
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockApp.g.resources
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockApp.Properties.Resources.resources
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockApp.csproj.GenerateResource.cache
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockApp.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockApp.dll
+C:\Users\echrk\source\repos\Week14\ClockApp\obj\Debug\ClockApp.pdb
