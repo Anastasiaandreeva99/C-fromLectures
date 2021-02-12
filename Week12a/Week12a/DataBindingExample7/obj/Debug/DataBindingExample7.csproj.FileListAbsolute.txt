@@ -1,0 +1,47 @@
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\MainWindow.baml
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\MainWindow.g.cs
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\App.g.cs
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\DataBindingExample7_MarkupCompile.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\DataBindingExample7.g.resources
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\DataBindingExample7.Properties.Resources.resources
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\DataBindingExample7.csproj.GenerateResource.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\DataBindingExample7.csproj.CoreCompileInputs.cache
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\bin\Debug\DataBindingExample7.exe.config
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\bin\Debug\DataBindingExample7.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\bin\Debug\DataBindingExample7.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\DataBindingExample7.exe
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\DataBindingExample7.pdb
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\echrk\Documents\Visual Studio 2017\Projects\Samples\DataBinding\DataBindingExample7\obj\Debug\DataBindingExample7_MarkupCompile.lref
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\bin\Debug\DataBindingExample7.exe.config
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\bin\Debug\DataBindingExample7.exe
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\bin\Debug\DataBindingExample7.pdb
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.csprojAssemblyReference.cache
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\MainWindow.g.cs
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\App.g.cs
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7_MarkupCompile.cache
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7_MarkupCompile.lref
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\MainWindow.baml
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.g.resources
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.Properties.Resources.resources
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.csproj.GenerateResource.cache
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.csproj.CoreCompileInputs.cache
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.exe
+C:\Users\echrk\source\repos\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.pdb
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\bin\Debug\DataBindingExample7.exe.config
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\bin\Debug\DataBindingExample7.exe
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\bin\Debug\DataBindingExample7.pdb
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.csprojAssemblyReference.cache
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\MainWindow.g.cs
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\App.g.cs
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7_MarkupCompile.cache
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7_MarkupCompile.lref
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\MainWindow.baml
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.g.resources
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.Properties.Resources.resources
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.csproj.GenerateResource.cache
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.csproj.CoreCompileInputs.cache
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.exe
+H:\m\C#FMI\ASHefasWork\Week12a\Week12a\DataBindingExample7\obj\Debug\DataBindingExample7.pdb
