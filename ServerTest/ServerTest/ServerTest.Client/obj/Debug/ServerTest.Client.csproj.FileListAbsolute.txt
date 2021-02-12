@@ -1,0 +1,6 @@
+F:\Programs C#\ServerTest\ServerTest.Client\bin\Debug\ServerTest.Client.exe.config
+F:\Programs C#\ServerTest\ServerTest.Client\bin\Debug\ServerTest.Client.exe
+F:\Programs C#\ServerTest\ServerTest.Client\bin\Debug\ServerTest.Client.pdb
+F:\Programs C#\ServerTest\ServerTest.Client\obj\Debug\ServerTest.Client.csproj.CoreCompileInputs.cache
+F:\Programs C#\ServerTest\ServerTest.Client\obj\Debug\ServerTest.Client.exe
+F:\Programs C#\ServerTest\ServerTest.Client\obj\Debug\ServerTest.Client.pdb

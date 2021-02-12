@@ -1,0 +1,7 @@
+F:\Programs C#\ServerTest\ServerTest\bin\Debug\ServerTest.Server.exe.config
+F:\Programs C#\ServerTest\ServerTest\bin\Debug\ServerTest.Server.exe
+F:\Programs C#\ServerTest\ServerTest\bin\Debug\ServerTest.Server.pdb
+F:\Programs C#\ServerTest\ServerTest\obj\Debug\ServerTest.Server.csprojAssemblyReference.cache
+F:\Programs C#\ServerTest\ServerTest\obj\Debug\ServerTest.Server.csproj.CoreCompileInputs.cache
+F:\Programs C#\ServerTest\ServerTest\obj\Debug\ServerTest.Server.exe
+F:\Programs C#\ServerTest\ServerTest\obj\Debug\ServerTest.Server.pdb
