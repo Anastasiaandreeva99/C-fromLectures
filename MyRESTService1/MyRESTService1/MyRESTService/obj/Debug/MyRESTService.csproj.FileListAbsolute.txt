@@ -1,0 +1,12 @@
+D:\Data\Dev\MyRESTService\MyRESTService\bin\MyRESTService.dll.config
+D:\Data\Dev\MyRESTService\MyRESTService\bin\MyRESTService.dll
+D:\Data\Dev\MyRESTService\MyRESTService\bin\MyRESTService.pdb
+D:\Data\Dev\MyRESTService\MyRESTService\obj\Debug\MyRESTService.dll
+D:\Data\Dev\MyRESTService\MyRESTService\obj\Debug\MyRESTService.pdb
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MyRESTService\bin\MyRESTService.dll.config
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MyRESTService\bin\MyRESTService.dll
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MyRESTService\bin\MyRESTService.pdb
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MyRESTService\obj\Debug\MyRESTService.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MyRESTService\obj\Debug\MyRESTService.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MyRESTService\obj\Debug\MyRESTService.dll
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MyRESTService\obj\Debug\MyRESTService.pdb

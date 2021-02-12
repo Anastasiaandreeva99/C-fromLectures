@@ -1,0 +1,15 @@
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\bin\Debug\MwRESTTestWPF.exe.config
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\bin\Debug\MwRESTTestWPF.exe
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\bin\Debug\MwRESTTestWPF.pdb
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF.csprojAssemblyReference.cache
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MainWindow.g.cs
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\App.g.cs
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF_MarkupCompile.cache
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF_MarkupCompile.lref
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MainWindow.baml
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF.g.resources
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF.Properties.Resources.resources
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF.csproj.GenerateResource.cache
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF.csproj.CoreCompileInputs.cache
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF.exe
+E:\eug\esc\_CSharp\FMICS\CSF20\w15\Lecture15b\Lectures\MyRESTServiceLab\MyRESTService1\MwRESTTestWPF\obj\Debug\MwRESTTestWPF.pdb
